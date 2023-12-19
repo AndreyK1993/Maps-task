@@ -18,7 +18,7 @@ public class Task02 {
         displayResult(result);
     }
 
-    // Метод для отримання початкових даних про товари
+    // Метод для отримання початкових даних про товари .
     private static Map<String, Integer> getData() {
         Map<String, Integer> inventory = new HashMap<>();
         inventory.put("Laptop", 5);
